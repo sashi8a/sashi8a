@@ -1,4 +1,4 @@
-![logo](https://github.com/sashi8a/sashi8a/blob/main/github_banner.png)
+![logo](https://github.com/sashi8a/sashi8a/blob/main/GITHUBBANNER.jpeg)
 <h1 align="center">Hi 👋, I'm Sashi Ayyalsomayajula</h1>
 <h3 align="center">Student @ UT Austin pursuing a Math major and certificates in Computer and Data science.</h3>
 
