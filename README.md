@@ -1,8 +1,6 @@
 ![logo](https://github.com/sashi8a/sashi8a/blob/main/GITHUBBANNER.jpeg)
 <h1 align="center">Hi 👋, I'm Sashi Ayyalsomayajula</h1>
-<h3 align="center">Student @ UT Austin pursuing a Math major and certificates in Computer and Data science.</h3>
-
-- 🔭 I’m currently working on **research with image classification with gravitational lensing.**
+<h3 align="center">Graduate Student @ NYU Courant pursuing Applied Math major with a focus in AI/ML and Data Science.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms.**
 
